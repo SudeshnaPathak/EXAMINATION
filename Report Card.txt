@@ -1,0 +1,16 @@
+Name of the student :Sumana
+Class Roll of the student :84
+Stream of the student :ME
+Your Batch ID is:ME22
+Your Student ID is :ME2284
+
+Marks obtained in Python is :null
+Marks obtained in Math is :33
+Marks obtained in Physics is :21
+Marks obtained in Chemistry is :29
+Marks obtained in Biology is :30
+Marks obtained in English is :24
+Marks obtained in BEE is :27
+Marks obtained in Mechanical Engineering is :19
+Total marks:183 Percentage:26.142857142857142%
+You have failed with grade F
